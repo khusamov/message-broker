@@ -1,7 +1,7 @@
 {
 	"name": "khusamov-message-broker",
 	"description": "Брокер сообщений MessageBroker",
-	"version": "0.0.0",
+	"version": "0.0.2",
 	"author": "Khusamov Sukhrob",
 	"license": "MIT",
 	"repository": {
